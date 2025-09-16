@@ -6,7 +6,7 @@ A Python-based real-time face recognition voting system using OpenCV and KNN, de
 
 
 ## Face Registration
-![Face](voting1.png)
+![Face](Voting1.png)
 
 ## 🔍 Features
 
