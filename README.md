@@ -4,6 +4,10 @@ A Python-based real-time face recognition voting system using OpenCV and KNN, de
 
 [🎥Watch the demo video](https://drive.google.com/file/d/1wem4cKyc_Bi9xwHK6Oq15UGAXCmAezp2/view?usp=sharing)
 
+
+## Face Registration
+![Face](voting1.png)
+
 ## 🔍 Features
 
 - 🧠 Facial recognition with **OpenCV + KNN**
